@@ -29,7 +29,7 @@ Once the installation is complete, let's open any Microsoft Office app. As you c
 # Method 1: Activate Microsoft Office 2021 using Command Prompt
 
 **Step 1:** Type **cmd** in search box, right lick on **Command Prompt** then select **Run as Administrator**.
-![image](https://github.com/Takishao/Microsoft-Office-2021/assets/43603572/d90b48b1-9b7a-4625-be2f-e418f8e3fdc5)
+![image](https://github.com/Takishao/Microsoft-Office-2021/assets/43603572/0cbb2903-c7bb-4876-8ce5-fcef32d365c7)
 
 **Step 2:** Copy all below commands, right click and paste into cmd window at once then hit Enter.
 ```if exist "C:\Program Files\Microsoft Office\Office16\ospp.vbs" cd /d "C:\Program Files\Microsoft Office\Office16"
