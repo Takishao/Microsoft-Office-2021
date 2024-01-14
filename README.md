@@ -37,6 +37,5 @@ for /f %x in ('dir /b ..\root\Licenses16\ProPlus2021VL_KMS*.xrm-ms') do cscript 
 cscript ospp.vbs /inpkey:FXYTK-NJJ8C-GB6DW-3DYQT-6F7TH
 cscript ospp.vbs /sethst:kms.msgang.com
 cscript ospp.vbs /act
-pause
-```
+pause```
 
